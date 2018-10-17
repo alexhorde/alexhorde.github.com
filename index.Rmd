@@ -1,8 +1,8 @@
 ---
-title: "AlexHorde's website"
-author: "Alex Horde"
-date: "17 10 2018"
-output: html_document
+title: "JaneEverydayDoe's website"
+output:
+  html_document:
+    theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
